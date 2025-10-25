@@ -1,0 +1,9 @@
+{
+  "name": "collaborative-code-editor",
+  "version": "1.0.0",
+  "description": "Production-ready real-time collaborative code editor",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ]
+}
